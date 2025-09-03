@@ -10,11 +10,12 @@ Attualmente lavoro come **backoffice** in un'azienda informatica che opera nel s
 
 Sono uno sviluppatore appassionato di tecnologia, con particolare attenzione a:
 
-- ✅ **PHP (Symfony)**
+- ✅ **PHP (Symfony & procedurale)**
 - 🔁 **REST API**
 - 🗃️ **MySQL**
 - 🎨 **HTML, CSS, JavaScript**
 - 🐳 **Ambienti containerizzati con Docker**
+- 🎨 **Bootstrap (3, 4 e 5)**
 
 Costruisco e mantengo **siti web** e **software web**, con un occhio attento sia alla funzionalità che alla chiarezza del codice.
 
@@ -24,10 +25,11 @@ Costruisco e mantengo **siti web** e **software web**, con un occhio attento sia
 
 > linguaggi, framework e strumenti che utilizzo ogni giorno:
 
-- 🐘 PHP (OOP, Symfony)
+- 🐘 PHP (OOP, Symfony e procedurale)
 - 🧩 RESTful API
 - 🛢️ MySQL
 - 💅 HTML5, CSS3
+- 🎨 Bootstrap (3, 4, 5)
 - 🧠 JavaScript (vanilla)
 - 📦 Docker (sviluppo e ambienti isolati)
 - 📁 Git & GitHub
